@@ -1,4 +1,4 @@
-# Psychological-Platform
+# About this project
 The project consists of providing answers to the various subscribers of the platform.
 We have three actors, the user, the HR and the psychologist. 
 
